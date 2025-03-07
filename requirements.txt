@@ -1,0 +1,6 @@
+torch>=1.8.0
+numpy>=1.18.5
+scikit-image>=0.18.3
+Pillow>=8.1.0
+tifffile>=2025.2.18
+ever==0.1.0  # or the correct version you're using
